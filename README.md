@@ -20,6 +20,25 @@ Docs/
 | [OOP](Flutter/OOP) | Dart OOP temelleri, class modifiers, constructors, design patterns | Öğrenme amaçlı |
 | [Proof of Concept Docs](Flutter/Proof%20of%20Concept%20Docs) | Bağımsız teknik referans dokümanları | Mid/Senior dev |
 
+## Obsidian'a Aktarma
+
+Bu notları Obsidian'da kullanmak için:
+
+1. Repoyu klonla:
+   ```bash
+   git clone git@github.com:yagizdo/learning-docs.git
+   ```
+
+2. Obsidian'ı aç
+
+3. **Open folder as vault** seçeneğini tıkla
+
+4. Klonladığın `learning-docs` klasörünü seç
+
+5. Hazır! Artık notları Obsidian'da görüntüleyebilirsin
+
+> **Not:** `.obsidian` klasörü gitignore'da olduğu için kendi Obsidian ayarların korunur.
+
 ## Notlar
 
 - Dokümanlar Türkçe yazılmıştır
