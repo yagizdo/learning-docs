@@ -1,14 +1,14 @@
 # Flutter
 
-Flutter ve Dart ile ilgili dokumantasyon.
+Flutter ve Dart ile ilgili dokümantasyon.
 
-## Klasorler
+## Klasörler
 
 ### OOP
 
-Dart OOP ogrenme serisi. Sirali olarak takip edilmesi onerilir.
+Dart OOP öğrenme serisi. Sıralı olarak takip edilmesi önerilir.
 
-| Dokuman | Konu |
+| Doküman | Konu |
 |---------|------|
 | [01 - OOP Temelleri](OOP/01%20-%20OOP%20Temelleri%20-%20Dart.md) | Class, inheritance, encapsulation, polymorphism |
 | [02 - Dart 3.x Class Modifiers](OOP/02%20-%20Dart%203.x%20Class%20Modifiers.md) | abstract, base, interface, final, sealed, mixin |
@@ -17,8 +17,8 @@ Dart OOP ogrenme serisi. Sirali olarak takip edilmesi onerilir.
 
 ### Proof of Concept Docs
 
-Bagimsiz POC referans dokumanlari. Herhangi bir sirada okunabilir.
+Bağımsız POC referans dokümanları. Herhangi bir sırada okunabilir.
 
-| Dokuman | Konu |
+| Doküman | Konu |
 |---------|------|
 | [POC - ObjectBox](Proof%20of%20Concept%20Docs/POC%20-%20Factory%20Pattern%20Objectbox.md) | ObjectBox cache sistemi, Factory/Repository patterns |

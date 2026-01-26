@@ -1,30 +1,30 @@
 # Proof of Concept Docs
 
-Flutter için Proof of Concept (POC) referans dokumanları. Mid/senior Flutter developerlar icin teknik referans kaynaklari.
+Flutter için Proof of Concept (POC) referans dokümanları. Mid/senior Flutter developerlar için teknik referans kaynakları.
 
-## Dokumanlar
+## Dokümanlar
 
-| Dokuman | Aciklama |
+| Doküman | Açıklama |
 |---------|----------|
-| [POC - Factory Pattern Objectbox](POC%20-%20Factory%20Pattern%20Objectbox.md) | ObjectBox cache sistemi - Factory ve Repository pattern implementasyonlari |
+| [POC - Factory Pattern Objectbox](POC%20-%20Factory%20Pattern%20Objectbox.md) | ObjectBox cache sistemi - Factory ve Repository pattern implementasyonları |
 
-## Kullanim
+## Kullanım
 
-Bu dokumanlar bagimsiz referans kaynaklaridir. Her dokuman:
+Bu dokümanlar bağımsız referans kaynaklarıdır. Her doküman:
 
-- Kisa tanitim
-- Temel ozellikler ve API referansi
+- Kısa tanıtım
+- Temel özellikler ve API referansı
 - Implementation pattern'leri
-- Gercek dunya ornekleri
-- Hizli referans tablolari
+- Gerçek dünya örnekleri
+- Hızlı referans tabloları
 
-icerir.
+içerir.
 
-## Katkida Bulunma
+## Katkıda Bulunma
 
-Yeni POC dokumani eklerken:
+Yeni POC dokümanı eklerken:
 
-1. `POC - [Konu].md` formatinda dosya olustur
-2. Ayni yapiyi takip et (Tanitim, Ozellikler, Kurulum, Patterns, Ornek, Referans)
-3. Kod ornekleri kisa ve okunakli olsun (2-5 satir)
-4. Tablo formatini tercih et
+1. `POC - [Konu].md` formatında dosya oluştur
+2. Aynı yapıyı takip et (Tanıtım, Özellikler, Kurulum, Patterns, Örnek, Referans)
+3. Kod örnekleri kısa ve okunaklı olsun (2-5 satır)
+4. Tablo formatını tercih et

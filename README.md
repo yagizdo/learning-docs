@@ -1,27 +1,27 @@
 # Docs
 
-Kisisel teknik dokumantasyon ve notlar.
+Kişisel teknik dokümantasyon ve notlar.
 
-## Yapi
+## Yapı
 
 ```
 Docs/
 └── Flutter/
-    ├── OOP/                    # Dart OOP ogrenme serisi
-    └── Proof of Concept Docs/  # POC referans dokumanlari
+    ├── OOP/                    # Dart OOP öğrenme serisi
+    └── Proof of Concept Docs/  # POC referans dokümanları
 ```
 
-## Icerik
+## İçerik
 
 ### Flutter
 
-| Klasor | Aciklama | Hedef Kitle |
+| Klasör | Açıklama | Hedef Kitle |
 |--------|----------|-------------|
-| [OOP](Flutter/OOP) | Dart OOP temelleri, class modifiers, constructors, design patterns | Ogrenme amacli |
-| [Proof of Concept Docs](Flutter/Proof%20of%20Concept%20Docs) | Bagimsiz teknik referans dokumanlari | Mid/Senior dev |
+| [OOP](Flutter/OOP) | Dart OOP temelleri, class modifiers, constructors, design patterns | Öğrenme amaçlı |
+| [Proof of Concept Docs](Flutter/Proof%20of%20Concept%20Docs) | Bağımsız teknik referans dokümanları | Mid/Senior dev |
 
 ## Notlar
 
-- Dokumanlar Turkce yazilmistir
+- Dokümanlar Türkçe yazılmıştır
 - Obsidian ile uyumludur
-- Her klasorde ayri README bulunur
+- Her klasörde ayrı README bulunur
