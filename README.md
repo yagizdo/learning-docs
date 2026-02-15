@@ -6,9 +6,10 @@ Kişisel teknik dokümantasyon ve notlar.
 
 ```
 Docs/
-└── Flutter/
-    ├── OOP/                    # Dart OOP öğrenme serisi
-    └── Proof of Concept Docs/  # POC referans dokümanları
+├── Flutter/
+│   ├── OOP/                    # Dart OOP öğrenme serisi
+│   └── Proof of Concept Docs/  # POC referans dokümanları
+└── Swift/                      # Swift dili temelleri ve notlar
 ```
 
 ## İçerik
@@ -19,6 +20,12 @@ Docs/
 |--------|----------|-------------|
 | [OOP](Flutter/OOP) | Dart OOP temelleri, class modifiers, constructors, design patterns | Öğrenme amaçlı |
 | [Proof of Concept Docs](Flutter/Proof%20of%20Concept%20Docs) | Bağımsız teknik referans dokümanları | Mid/Senior dev |
+
+### Swift
+
+| Klasör | Açıklama | Hedef Kitle |
+|--------|----------|-------------|
+| [Swift](Swift) | Swift dili temelleri, OOP, POP, Memory Management ve Advanced Enums | Öğrenme amaçlı |
 
 ## Obsidian'a Aktarma
 
