@@ -16,7 +16,7 @@
 | 2 | [Optionals](02%20-%20Optionals.md) | Optional kavramı, `if let`, `guard let`, nil-coalescing, optional chaining, pattern matching | 2–3 gün |
 | 3 | [OOP & POP](03%20-%20OOP%20ve%20POP.md) | Inheritance, polymorphism, encapsulation, abstraction, protocol-oriented programming, composition over inheritance | 4–5 gün |
 | 4 | [Closures & Memory](04%20-%20Closures%20ve%20Memory.md) | Closure syntax, trailing closures, `@escaping`, capture lists, `[weak self]`, retain cycle'lar | 3–4 gün |
-| 5 | [Advanced Enums](05%20Advanced%20Enums.md) | Raw values, associated values, pattern matching, enum ile state management, recursive enums | 2–3 gün |
+| 5 | [Advanced Enums](05%20-%20Advanced%20Enums.md) | Raw values, associated values, pattern matching, enum ile state management, recursive enums | 2–3 gün |
 | 6 | [Error Handling, Generics & Access Control](06%20-%20Error%20Handling%20-%20Generics%20-%20Access%20Control.md) | `do-try-catch`, `Result` type, generic fonksiyonlar/tipler, protocol constraints, erişim seviyeleri | 3–4 gün |
 
 ---
@@ -40,7 +40,7 @@
 ### Hafta 3: Enum'lar, Error Handling, Generics
 | Gün | Konu | Doküman |
 |---|---|---|
-| Gün 15–17 | Advanced Enums + pattern matching | [05 — Advanced Enums](05%20Advanced%20Enums.md) |
+| Gün 15–17 | Advanced Enums + pattern matching | [05 — Advanced Enums](05%20-%20Advanced%20Enums.md) |
 | Gün 18–21 | Error handling, generics, access control + genel tekrar | [06 — Error Handling, Generics & Access Control](06%20-%20Error%20Handling%20-%20Generics%20-%20Access%20Control.md) |
 
 ---

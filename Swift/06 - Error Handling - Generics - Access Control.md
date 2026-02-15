@@ -3,7 +3,7 @@
 > **Phase 1 · Doküman 6/6**  
 > **Konu:** `do-try-catch`, `Result` type, generic fonksiyonlar/tipler, protocol constraints, erişim seviyeleri  
 > **Tahmini Süre:** 3–4 gün  
-> **Ön Koşul:** [01](01%20-%20Swift%20Temelleri.md)–[05](05%20Advanced%20Enums.md)
+> **Ön Koşul:** [01](01%20-%20Swift%20Temelleri.md)–[05](05%20-%20Advanced%20Enums.md)
 
 ---
 

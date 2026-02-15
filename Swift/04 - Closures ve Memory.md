@@ -557,7 +557,7 @@ Bu dokümanı tamamladıktan sonra şunları yapabilmelisin:
 
 ---
 
-> **Sonraki Doküman:** [05 — Advanced Enums](05%20Advanced%20Enums.md)
+> **Sonraki Doküman:** [05 — Advanced Enums](05%20-%20Advanced%20Enums.md)
 
 ---
 
